@@ -17,3 +17,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nidhi123-ni&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nidhi123-ni/Nidhi123-ni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
